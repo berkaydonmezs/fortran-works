@@ -1,3 +1,4 @@
+! as for an array name
 module ask_for_array_name
 character(:), allocatable, public :: name
 integer :: str_length
